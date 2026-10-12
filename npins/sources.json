@@ -9,9 +9,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "42edc0b7de466d7b19e76b75a9711dc305c0ed32",
-      "url": "https://github.com/olistrik/astal-labs/archive/42edc0b7de466d7b19e76b75a9711dc305c0ed32.tar.gz",
-      "hash": "sha256-oo0HBZNe3cLa5dhbFFRjDEm3aBnz5Gozlu/7LQNtqoY="
+      "revision": "84588c5492b210d85fb1b17066bd07c7a9917ff6",
+      "url": "https://github.com/olistrik/astal-labs/archive/84588c5492b210d85fb1b17066bd07c7a9917ff6.tar.gz",
+      "hash": "sha256-GjRlbeE0PpLSAPhHE4/J/UxqNC1CsdaELBK2RXrc+AE="
     },
     "nixpkgs": {
       "type": "Channel",
