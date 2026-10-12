@@ -1,0 +1,24 @@
+{
+  "pins": {
+    "astal-labs": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "olistrik",
+        "repo": "astal-labs"
+      },
+      "branch": "main",
+      "submodules": false,
+      "revision": "42edc0b7de466d7b19e76b75a9711dc305c0ed32",
+      "url": "https://github.com/olistrik/astal-labs/archive/42edc0b7de466d7b19e76b75a9711dc305c0ed32.tar.gz",
+      "hash": "sha256-oo0HBZNe3cLa5dhbFFRjDEm3aBnz5Gozlu/7LQNtqoY="
+    },
+    "nixpkgs": {
+      "type": "Channel",
+      "name": "nixos-unstable",
+      "url": "https://releases.nixos.org/nixos/unstable/nixos-26.11pre1089111.6510408d147d/nixexprs.tar.xz",
+      "hash": "sha256-V0WmebqwEeAVZMqxfv7Dq7hpKkPPM19W50xQf3D1Kf4="
+    }
+  },
+  "version": 7
+}

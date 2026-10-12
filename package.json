@@ -1,0 +1,13 @@
+{
+    "name": "ags-config",
+    "version": "0.0.1",
+    "type": "module",
+    "private": true,
+    "dependencies": {
+        "gnim": "*"
+    },
+    "devDependencies": {
+        "typescript": "5.7.3",
+        "prettier": "3.3.2"
+    }
+}
